@@ -1,0 +1,11 @@
+[submodule "py-xiaozhi"]
+	path = py-xiaozhi
+	url = https://github.com/huangjunsen0406/py-xiaozhi.git
+
+[submodule "xiaozhi-esp32"]
+	path = xiaozhi-esp32
+	url = https://github.com/78/xiaozhi-esp32.git
+
+[submodule "xiaozhi-esp32-server"]
+	path = xiaozhi-esp32-server
+	url = https://github.com/xinnan-tech/xiaozhi-esp32-server.git
